@@ -1,0 +1,17 @@
+round ,player1,player2
+round1,tails,heads
+round2,heads,tails
+round3,tails,heads
+round4,tails,heads
+round5,heads,tails
+round6,heads,tails
+round7,tails,heads
+round8,heads,tails
+round9,tails,heads
+round10,heads,tails
+
+
+plr1heads,5
+plr1tails,5
+plr2heads,5
+plr2tails,5
